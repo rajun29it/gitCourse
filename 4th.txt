@@ -3,3 +3,5 @@ first brach file
 modified in firstBranch
 
 testing diff
+
+testing merge
