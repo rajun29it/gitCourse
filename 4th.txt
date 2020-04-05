@@ -5,3 +5,5 @@ modified in firstBranch
 testing diff
 
 testing merge
+
+testing git pull
