@@ -5,3 +5,5 @@ test 2
 testing amend
 
 testing amend1
+
+testing conflicts
